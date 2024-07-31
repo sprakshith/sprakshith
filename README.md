@@ -10,18 +10,28 @@ Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin
 
 ---
 
+<div style="display: flex; flex-wrap: wrap;">
+
+<div style="flex: 50%;">
+
 ### **_Programming Languages_**
 
-<img align="left" alt="Python" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python"/>
-<img align="left" alt="Java" width="40px" style="padding-right:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
-<img align="left" alt="JavaScript" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python"/>
+<img align="left" alt="Java" width="40px" style="padding-right:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
+<img align="left" alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
 
-<br><br>
+</div>
+
+<div style="flex: 50%;">
 
 ### **_Container Stack_**
 
-<img align="left" alt="Docker" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
-<img align="left" alt="Kubernetes" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"/>
+<img align="left" alt="Docker" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
+<img align="left" alt="Kubernetes" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"/>
+
+</div>
+
+</div>
 
 <br><br>
 
