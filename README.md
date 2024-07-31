@@ -6,7 +6,9 @@ I’m Rakshith, a passionate developer with a unique blend of experience and exp
 
 Coding is more than a profession for me—it's a craft I continually hone, driven by an innate love for innovation and problem-solving. My journey has endowed me with a wealth of knowledge, making me a quick learner capable of mastering new programming languages and frameworks in a matter of days. My tenacity and dedication have no bounds, constantly pushing the limits of my expertise.
 
-Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin.com/in/rakshith-shivaramappa/)
+LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin.com/in/rakshith-shivaramappa/)
+
+Kaggle Profile: [Rakshith S P](https://www.kaggle.com/sprakshith)
 
 ---
 
