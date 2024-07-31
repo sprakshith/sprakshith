@@ -18,13 +18,6 @@ Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin
 
 <br><br>
 
-### **_Container Stack_**
-
-<img align="left" alt="Docker" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
-<img align="left" alt="Kubernetes" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"/>
-
-<br><br>
-
 ### **_Databases_**
 
 <img align="left" alt="MySQL" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"/>
@@ -73,6 +66,13 @@ Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin
 <img align="left" alt="CSS" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS"/>
 <img align="left" alt="jQuery" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" title="jQuery"/>
 <img align="left" alt="Django" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/>
+
+<br><br>
+
+### **_Container Stack_**
+
+<img align="left" alt="Docker" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
+<img align="left" alt="Kubernetes" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"/>
 
 <br><br>
 
