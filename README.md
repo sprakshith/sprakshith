@@ -78,22 +78,22 @@ Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin
 
 ### LLM Libraries and Tools
 
+<div>
 <ul>
 <li>OpenAI API</li>
 <li>LangChain</li>
 <li>Ollama</li>
 <ul>
-
-<br><br>
+</div>
 
 ### Google Cloud Platform
 
+<div>
 <ul>
 <li>BigQuery</li>
 <li>Pub/Sub</li>
 <ul>
-
-<br><br>
+</div>
 
 ### Others
 
@@ -103,9 +103,3 @@ Here is my LinkedIn Profile: [Rakshith Shivaramappa Pushpa](https://www.linkedin
 <img align="left" alt="Django" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Django"/>
 <img align="left" alt="Django" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Django"/>
 <img align="left" alt="Django" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="Django"/>
-
-</div>
-
-<br><br><br>
-
----
