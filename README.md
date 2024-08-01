@@ -2,7 +2,7 @@
 
 **`Coding Aficionado (Developer/AI Engineer/Tech Enthusiast)`**
 
-I’m Rakshith, a passionate developer with a unique blend of experience and expertise in both traditional software development and cutting-edge AI technologies. With 2.5 years as a Java and Spring Boot Microservices developer under my belt, I ventured into the dynamic world of Data Science, pursuing a master's degree that opened the door to a thrilling opportunity as an AI Engineer Working Student.
+I’m Rakshith, a passionate developer with a unique blend of experience and expertise in both traditional software development and cutting-edge AI technologies. With 2.5 years as a Java and Spring Boot Microservices developer under my belt, I ventured into the dynamic world of Data Science, pursuing a master's degree in Applied Data Science and Analytics that opened the door to a thrilling opportunity as an AI Engineer Working Student.
 
 Coding is more than a profession for me—it's a craft I continually hone, driven by an innate love for innovation and problem-solving. My journey has endowed me with a wealth of knowledge, making me a quick learner capable of mastering new programming languages and frameworks in a matter of days. My tenacity and dedication have no bounds, constantly pushing the limits of my expertise.
 
