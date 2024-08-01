@@ -32,7 +32,6 @@ Kaggle Profile: [Rakshith S P](https://www.kaggle.com/sprakshith)
 ### **_Big Data Technologies_**
 
 <img align="left" alt="Apache Spark" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark"/>
-<img align="left" alt="Hadoop" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" title="Hadoop"/>
 <img align="left" alt="Apache Kafka" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka"/>
 
 <br><br>
