@@ -41,7 +41,6 @@ Kaggle Profile: [Rakshith S P](https://www.kaggle.com/sprakshith)
 <img align="left" alt="Numpy" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="Numpy"/>
 <img align="left" alt="Pandas" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas"/>
 <img align="left" alt="Matplotlib" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"/>
-<img align="left" alt="Plotly" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" title="Plotly"/>
 
 <br><br>
 
