@@ -56,7 +56,6 @@ Kaggle Profile: [Rakshith S P](https://www.kaggle.com/sprakshith)
 
 <img align="left" alt="Spring Boot" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title="Spring Boot"/>
 <img align="left" alt="Flask" width="40px" style="padding-right:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask"/>
-<img align="left" alt="FastAPI" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI"/>
 
 <br><br>
 
